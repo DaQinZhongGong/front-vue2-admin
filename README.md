@@ -84,7 +84,7 @@ ES2015+、vue、vuex、vue-router 、vue-cli 、axios、mock.js 和 element-ui �
 
 ``` bash
 # 配置镜像加速
-https://www.ydyno.com/archives/1219.html
+
 # 首先配置淘宝的镜像源
 npm config set registry https://registry.npmmirror.com
 # 然后在 ~/.npmrc 加入下面内容
